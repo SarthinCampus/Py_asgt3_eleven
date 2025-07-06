@@ -1,1 +1,9 @@
-# Py_asgt3_eleven
+Directory: regex_extract_hashtags
+
+File: main.py
+
+Task:
+
+Read a tweet-style line from input (e.g. "Loving #Python and #Regex!")
+
+Extract and print all hashtags.
